@@ -18,6 +18,11 @@ Dive into the seamless user experience and sleek design crafted to enhance your 
 | primary Color | ![#12BCBC](https://via.placeholder.com/10/12BCBC?text=+) #12BCBC |
 | secondary Color | ![#35B99E](https://via.placeholder.com/10/35B99E?text=+) #35B99E |
 
+<br>
+
+## Screenshots 📷
+
+![wallety1](https://github.com/shanibider/Wallety-App-Preview-Website/assets/72359805/008028d8-31fd-4797-9fea-fa51ca44144d)
 
 <br>
 
