@@ -1,5 +1,6 @@
 # Wallety App Preview Website 🖥️
-Wallety App Preview is a beautifully designed and responsive website developed using HTML, CSS, and Bootstrap. It features a modern and intuitive user interface, making it easy for users to navigate and interact with content across various devices.
+Welcome to the Wallety App Preview website, a showcase of our responsive ****Frontend**** developed with ****JavaScript, HTML, CSS, and Bootstrap****.
+Dive into the seamless user experience and sleek design crafted to enhance your browsing journey across all devices.
 
 ## Features 🎯
 - [ ] **Responsive Design:** The website is designed to be fully responsive, ensuring optimal viewing and interaction experience across a wide range of devices, from desktops to mobile phones.
@@ -7,6 +8,16 @@ Wallety App Preview is a beautifully designed and responsive website developed u
 - [ ] **Bootstrap Framework:** Leveraging the power of Bootstrap, the website is built using pre-designed components and responsive grid system, speeding up development and ensuring consistency in design.
 - [ ] **Custom CSS:** Tailored CSS styles are used to enhance the appearance and layout of the website, providing a unique and cohesive look.
 - [ ] **Cross-Browser Compatibility:** The website is tested and optimized to work seamlessly across different web browsers, ensuring consistent performance for all users.
+
+<br>
+
+## Color Reference 🖌
+
+| Color             | Hex                                                                |
+| ----------------- | ------------------------------------------------------------------ |
+| primary Color | ![#12BCBC](https://via.placeholder.com/10/12BCBC?text=+) #12BCBC |
+| secondary Color | ![#35B99E](https://via.placeholder.com/10/35B99E?text=+) #35B99E |
+
 
 <br>
 
