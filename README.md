@@ -21,8 +21,8 @@ Dive into the seamless user experience and sleek design crafted to enhance your 
 <br>
 
 ## Screenshots 📷
+![Wallety-Family-Finance-App](https://github.com/shanibider/Wallety-App-Preview-Website/assets/72359805/86d324d5-e494-40e4-b6e1-4367628c1d29)
 
-![wallety1](https://github.com/shanibider/Wallety-App-Preview-Website/assets/72359805/008028d8-31fd-4797-9fea-fa51ca44144d)
 
 <br>
 
